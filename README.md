@@ -15,3 +15,4 @@ I have contributed to the Social Winter of Code Season 5 open-source project by 
 - https://github.com/avanimathur/amazon-clone-Great-Indian-Festtival/pull/104
 - https://github.com/avanimathur/amazon-clone-Great-Indian-Festtival/pull/106
 - https://github.com/avanimathur/amazon-clone-Great-Indian-Festtival/pull/107
+- https://github.com/dhairyagothi/100_days_100_web_project/pull/660
