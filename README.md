@@ -1,4 +1,4 @@
-# My Contributions to Social Winter of Code Season 5
+# My Contributions
 
 ## 🛠️ Overview
 I have contributed to the Social Winter of Code Season 5 open-source project by fixing bugs, adding features, and improving documentation.
